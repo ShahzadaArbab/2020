@@ -137,8 +137,8 @@ def login():
 		os.system('clear')
 		print logo
 		print(' \033[1;91mWarning: \033[1;93mDo Not Use Your Personal Account' )
-    print(' \033[1;91mMassage: \033[1;93mChenal subscribe zaror karna frends' )
-    print(' \033[1;91mNote: \033[1;92m👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆' )
+                print(' \033[1;91mMassage: \033[1;93mChenal subscribe zaror karna frends' )
+                print(' \033[1;91mNote: \033[1;92m👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆' )
 		print "\033[1;97m☠☠☠☠☠☠☠☠☠☠☠☠☠☠\033[1;92m<><>\033[1;97m☠☠☠☠☠☠☠☠☠☠☠☠☠☠"
 		id = raw_input('\033[1;96m[+] \x1b[1;97mID/Email\x1b[1;92m: \x1b[1;96m')
 		pwd = raw_input('\033[1;96m[+] \x1b[1;97mPassword\x1b[1;92m: \x1b[1;96m')
